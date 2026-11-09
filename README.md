@@ -54,3 +54,7 @@ xattr -dr com.apple.quarantine ~/Library/Keyboard\ Layouts/ABCcz.bundle
 1. Remove **ABCcz** in **Input Sources**.
 2. Delete `~/Library/Keyboard Layouts/ABCcz.bundle`.
 3. Log out and log back in.
+
+## License
+
+[MIT](LICENSE)
